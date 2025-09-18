@@ -1,0 +1,179 @@
+{
+  "contentList": [
+    {
+      "course": "PYTHON",
+      "category": "Basics",
+      "content": "Python is a versatile and high-level programming language designed to be simple and readable. It uses indentation instead of braces, which helps in maintaining structured and clean code. Python supports various data types including integers, floats, strings, and booleans, allowing arithmetic, logical, and comparison operations. Variables act as containers to store data, and operators manipulate these values. Control flow statements such as if, elif, and else make decisions based on conditions, while loops like for and while allow repetition. Functions organize code into reusable blocks, making programs modular. Python includes built-in data structures like lists, tuples, sets, and dictionaries for efficient data manipulation."
+    },
+    {
+      "course": "PYTHON",
+      "category": "OOP",
+      "content": "Object-Oriented Programming (OOP) in Python organizes code using classes and objects. A class serves as a blueprint, while objects are instances representing real-world entities. OOP concepts include inheritance for code reuse, polymorphism for method flexibility, encapsulation for data hiding, and abstraction for focusing on essential features. Special methods like __init__ initialize objects, and dunder methods add built-in functionality. Examples demonstrate building scalable and maintainable programs."
+    },
+    {
+      "course": "PYTHON",
+      "category": "Data Structures",
+      "content": "Python offers built-in data structures like lists, tuples, sets, and dictionaries for efficient data storage and manipulation. Lists are mutable and ordered, tuples are immutable, sets store unique elements, and dictionaries use key-value pairs. Operations include searching, sorting, slicing, and appending. Advanced structures like stacks and queues can be implemented using libraries. Examples show how to choose the right structure for performance."
+    },
+    {
+      "course": "PYTHON",
+      "category": "File Handling",
+      "content": "File handling in Python enables reading, writing, and manipulating file data. The open() function supports modes like 'r' for reading, 'w' for writing, and 'a' for appending. Methods like read(), readline(), and readlines() extract content, while writing saves output. Python supports text, CSV, and JSON files. Context managers with 'with' statements ensure proper file management, with examples for practical applications."
+    },
+    {
+      "course": "PYTHON",
+      "category": "Modules & Packages",
+      "content": "Modules and packages in Python organize code into reusable files and directories. A module is a single file with functions, classes, or variables, while packages group modules with an __init__.py file. Built-in modules like math, datetime, and os extend functionality. Examples show creating and importing custom modules and packages for better code organization."
+    },
+    {
+      "course": "PYTHON",
+      "category": "Error Handling",
+      "content": "Error handling in Python uses try, except, else, and finally blocks to manage exceptions like ValueError or IndexError. The try block tests code, except handles errors, else runs if no errors occur, and finally ensures critical cleanup. Custom exceptions can be raised. Examples demonstrate improving program reliability and user feedback."
+    },
+    {
+      "course": "PYTHON",
+      "category": "Advanced Python",
+      "content": "Advanced Python features include generators for memory-efficient data sequences, decorators for modifying functions, iterators for custom looping, and context managers for resource management. Lambda functions and list comprehensions provide concise coding. Examples show how these features enhance performance and reduce code repetition."
+    },
+    {
+      "course": "HTML",
+      "category": "Basics",
+      "content": "HTML (HyperText Markup Language) structures web pages using tags like <html>, <head>, and <body>. Headings (h1 to h6), paragraphs (p), hyperlinks (a), and images (img) organize content. Attributes like id, class, and style enhance functionality. Examples explain document structure for building web pages, foundational for CSS and JavaScript."
+    },
+    {
+      "course": "HTML",
+      "category": "Forms",
+      "content": "HTML forms enable user input with elements like text fields, radio buttons, checkboxes, and dropdowns. The <form> tag uses 'action' and 'method' attributes for data submission. Validation attributes like required and pattern ensure correct input. Examples show forms for login, registration, and surveys."
+    },
+    {
+      "course": "HTML",
+      "category": "Tables",
+      "content": "HTML tables organize data into rows and columns using <table>, <tr>, <th>, and <td> tags. Headers, captions, and merged cells (rowspan, colspan) enhance presentation. Examples demonstrate tables for schedules and reports, useful for structured data display."
+    },
+    {
+      "course": "HTML",
+      "category": "Multimedia",
+      "content": "HTML embeds multimedia like images (<img>), audio (<audio>), and video (<video>) with attributes like controls and autoplay. Examples show how to integrate media for engaging, interactive web pages."
+    },
+    {
+      "course": "HTML",
+      "category": "Semantic HTML",
+      "content": "Semantic HTML uses tags like <header>, <footer>, <article>, and <section> to describe content meaning. It improves accessibility and SEO. Examples illustrate cleaner, standards-compliant code structures."
+    },
+    {
+      "course": "HTML",
+      "category": "HTML5 APIs",
+      "content": "HTML5 APIs like Canvas, Geolocation, Web Storage, and Drag-and-Drop enable dynamic web applications. Examples demonstrate graphics, location access, and interactive features without plugins."
+    },
+    {
+      "course": "HTML",
+      "category": "Advanced HTML",
+      "content": "Advanced HTML includes custom data attributes, iframes, and microdata. Examples show embedding external content and adding metadata for search engines, enhancing modern web development."
+    },
+    {
+      "course": "CSS",
+      "category": "Selectors",
+      "content": "CSS selectors target HTML elements for styling, including element, class, ID, attribute, pseudo-classes (:hover, :focus), and pseudo-elements (::before, ::after). Examples show precise targeting for consistent, efficient styling."
+    },
+    {
+      "course": "CSS",
+      "category": "Box Model",
+      "content": "The CSS box model represents elements as boxes with content, padding, border, and margin. Examples explain controlling layout, spacing, and alignment for web elements."
+    },
+    {
+      "course": "CSS",
+      "category": "Layouts",
+      "content": "CSS layouts use block, inline, positioning, Flexbox, and Grid for arranging elements. Examples demonstrate responsive designs for consistent display across devices."
+    },
+    {
+      "course": "CSS",
+      "category": "Flexbox",
+      "content": "Flexbox arranges elements in a row or column with properties like justify-content and align-items. Examples show flexible, responsive designs for dynamic interfaces."
+    },
+    {
+      "course": "CSS",
+      "category": "Grid",
+      "content": "CSS Grid creates two-dimensional layouts with rows and columns. Examples demonstrate precise placement for responsive, organized web designs."
+    },
+    {
+      "course": "CSS",
+      "category": "Transitions",
+      "content": "CSS transitions animate property changes like hover effects. Examples show smooth, responsive interactions using duration and timing functions."
+    },
+    {
+      "course": "CSS",
+      "category": "Animations",
+      "content": "CSS animations use keyframes for complex effects. Examples demonstrate interactive banners and UI components with customizable duration and easing."
+    },
+    {
+      "course": "JAVA",
+      "category": "Introduction",
+      "content": "Java is a portable, object-oriented language with 'write once, run anywhere' capability via the JVM. Examples cover syntax, data types, variables, and control flow for beginners."
+    },
+    {
+      "course": "JAVA",
+      "category": "OOP Concepts",
+      "content": "Java’s OOP includes classes, objects, inheritance, polymorphism, encapsulation, and abstraction. Examples show modular, scalable program design."
+    },
+    {
+      "course": "JAVA",
+      "category": "Collections",
+      "content": "Java Collections (ArrayList, HashSet, HashMap) manage groups of objects. Examples demonstrate adding, removing, and sorting elements efficiently."
+    },
+    {
+      "course": "JAVA",
+      "category": "Generics",
+      "content": "Java generics ensure type safety in classes and methods. Examples show parameterized types for flexible, error-free code."
+    },
+    {
+      "course": "JAVA",
+      "category": "Exception Handling",
+      "content": "Java’s try, catch, finally, and throw handle runtime errors. Examples demonstrate robust, crash-free programs with custom exceptions."
+    },
+    {
+      "course": "JAVA",
+      "category": "Multithreading",
+      "content": "Java multithreading uses Thread and Runnable for concurrent execution. Examples show synchronization for safe resource access."
+    },
+    {
+      "course": "JAVA",
+      "category": "Streams & Lambda",
+      "content": "Java 8 streams and lambda expressions enable functional programming. Examples show filter, map, and reduce for concise, efficient code."
+    },
+    {
+      "course": "JAVA SCRIPT",
+      "category": "Basics",
+      "content": "JavaScript enables interactive web pages with DOM manipulation and event handling. Examples cover variables, data types, and functions."
+    },
+    {
+      "course": "JAVA SCRIPT",
+      "category": "DOM Manipulation",
+      "content": "JavaScript manipulates the DOM with methods like getElementById and querySelector. Examples show dynamic content updates and user interactions."
+    },
+    {
+      "course": "JAVA SCRIPT",
+      "category": "Events",
+      "content": "JavaScript events handle user actions like clicks and key presses. Examples demonstrate event listeners and propagation for interactive pages."
+    },
+    {
+      "course": "JAVA SCRIPT",
+      "category": "ES6+ Features",
+      "content": "ES6+ features like let, const, arrow functions, and async/await improve JavaScript code. Examples show modern, readable syntax."
+    },
+    {
+      "course": "JAVA SCRIPT",
+      "category": "Async JavaScript",
+      "content": "Async JavaScript uses callbacks, promises, and async/await for non-blocking tasks. Examples show fetching data and handling animations."
+    },
+    {
+      "course": "JAVA SCRIPT",
+      "category": "Modules",
+      "content": "JavaScript modules with export and import organize code. Examples demonstrate reusable, maintainable code for large applications."
+    },
+    {
+      "course": "JAVA SCRIPT",
+      "category": "Advanced Concepts",
+      "content": "Advanced JavaScript includes closures, prototypes, and the event loop. Examples show building high-performance, complex applications."
+    }
+  ]
+}
